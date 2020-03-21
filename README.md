@@ -1,2 +1,5 @@
 # NITJ-WiFi-AutoLogin
-Python Script To Auto Login in NITJ WiFi
+<BR>
+
+Made Using Requests Module For Linux OS
+---------------------------------------
